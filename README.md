@@ -8,7 +8,7 @@ Este trabajo es el resultado de una colaboración multidisciplinar:
 *   **Gaby:** Refactorización de controladores de eventos y gestión de Servlets.
 *   **Lizeth:** Mejora de la arquitectura de `AdviceListener` y el Core Module Manager.
 *   **Antonela:** Gestión avanzada de Classloaders y el Event Weaver.
-*   **Antigravity (AI Assistant):** Reducción de complejidad cognitiva en orquestadores de eventos y estandarización de nombres.
+*   **Kevin** Reducción de complejidad cognitiva en orquestadores de eventos y estandarización de nombres.
 
 ## 🛠️ Mejoras Clave Implementadas
 
